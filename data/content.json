@@ -1,0 +1,384 @@
+{
+  "navbar": {
+    "logoTagline": "Himani Dave Studio",
+    "navLinks": [
+      {
+        "href": "#about",
+        "label": "About"
+      },
+      {
+        "href": "#products",
+        "label": "Collections"
+      },
+      {
+        "href": "#services",
+        "label": "Services"
+      },
+      {
+        "href": "#portfolio",
+        "label": "Portfolio"
+      },
+      {
+        "href": "#clients",
+        "label": "Testimonials"
+      }
+    ],
+    "ctaLabel": "Book Consultation"
+  },
+  "categories": [
+    {
+      "label": "Bridal Collections",
+      "title": "Wedding &\nBridal Wear",
+      "img": "https://source.unsplash.com/1600x900/?business%2Coffice%2Cprofessional&sig=0",
+      "desc": "Exquisite custom bridal lehengas and sarees with intricate embroidery and premium fabrics for your special day."
+    },
+    {
+      "label": "Festive Wear",
+      "title": "Sarees &\nTraditional",
+      "img": "https://source.unsplash.com/1600x900/?team%2Cmeeting%2Ccorporate&sig=1",
+      "desc": "Elegantly designed sarees and traditional ethnic wear that celebrate Gujarat's rich textile heritage."
+    },
+    {
+      "label": "Contemporary Fashion",
+      "title": "Fusion &\nContemporary",
+      "img": "https://source.unsplash.com/1600x900/?city%2Cbuilding%2Cmodern&sig=2",
+      "desc": "Modern silhouettes blending traditional craftsmanship with contemporary design for the style-conscious clientele."
+    }
+  ],
+  "theme": {
+    "primary": "#374151",
+    "primaryDark": "#374151",
+    "secondary": "#111827",
+    "secondaryLight": "#111827",
+    "accent": "#9CA3AF",
+    "accentLight": "#9CA3AF"
+  },
+  "branding": {
+    "logoUrl": "",
+    "logoText": "Himani dave studio",
+    "headingFont": "Playfair Display",
+    "bodyFont": "Source Sans 3",
+    "selectedPalette": "slate-pro",
+    "logoSrc": "/uploads/logo.svg"
+  },
+  "hero": {
+    "badge": "RAJKOT, GUJARAT",
+    "title": "Curated Luxury Fashion.\nTailored to You.",
+    "subtitle": "Bespoke design meets timeless elegance at Himani Dave Studio.",
+    "phone": "+91 98989 89899",
+    "ctaText": "Get in Touch",
+    "stats": [
+      {
+        "num": "100+",
+        "label": "Custom Designs"
+      },
+      {
+        "num": "10K-50K",
+        "label": "Price Range"
+      },
+      {
+        "num": "2-4",
+        "label": "Week Turnaround"
+      }
+    ]
+  },
+  "about": {
+    "sectionLabel": "About Our Studio",
+    "heading": "Contemporary Indian Fashion with Cultural Pride.",
+    "description": "Himani Dave Studio is a designer boutique in Rajkot dedicated to creating exquisite, personalized fashion that celebrates individual style and cultural heritage. Founded by designer Himani Dave, our studio blends traditional craftsmanship with modern design sensibilities, transforming regional artisanal techniques into sophisticated contemporary wear. Every piece tells a story and empowers the wearer to express their unique identity with confidence and elegance.",
+    "checklist": [
+      "Bespoke Design Services Tailored to You",
+      "Master Craftsmanship & Premium Fabrics",
+      "Personalized Styling Consultations"
+    ],
+    "vision": "To celebrate individuality through thoughtfully curated fashion that honors traditional craftsmanship while embracing modern aesthetics.",
+    "mission": "To empower our clients to express their unique identity through exclusive, high-quality designs that blend contemporary aesthetics with cultural heritage."
+  },
+  "why": {
+    "sectionLabel": "Why Choose Himani Dave Studio",
+    "heading": "What Sets Us Apart",
+    "items": [
+      {
+        "title": "Personalized Bespoke Design Services"
+      },
+      {
+        "title": "Blend of Traditional Craftsmanship & Modern Design"
+      },
+      {
+        "title": "Premium Fabrics & Intricate Detailing"
+      },
+      {
+        "title": "Custom Consultation & Styling Guidance"
+      },
+      {
+        "title": "Skilled Artisans & Master Tailors"
+      },
+      {
+        "title": "Exclusive Collections & Individual Attention"
+      }
+    ]
+  },
+  "certifications": {
+    "sectionLabel": "Our Expertise",
+    "heading": "Crafted with Excellence",
+    "items": [
+      {
+        "num": "01",
+        "title": "Designer-Led Creative Vision"
+      },
+      {
+        "num": "02",
+        "title": "Hand Embroidery & Intricate Detailing"
+      },
+      {
+        "num": "03",
+        "title": "Quality Assured Tailoring & Finishing"
+      }
+    ]
+  },
+  "services": {
+    "sectionLabel": "Our Services",
+    "heading": "Complete Design Experience",
+    "items": [
+      {
+        "title": "Custom Design Consultation",
+        "desc": "Detailed consultations to understand your vision, style preferences, body type, and lifestyle needs with professional design guidance."
+      },
+      {
+        "title": "Hand Embroidery Work",
+        "desc": "Intricate hand embroidery featuring traditional techniques and contemporary patterns applied by skilled artisans."
+      },
+      {
+        "title": "Personal Shopping & Curation",
+        "desc": "Personalized styling sessions to help you select fabrics, designs, and customizations that perfectly match your aesthetic."
+      }
+    ]
+  },
+  "brands": [
+    "Evening & Party Wear",
+    "Sarees & Traditional",
+    "Wedding & Bridal Wear",
+    "Fusion & Contemporary",
+    "Handcrafted Ethnic Wear",
+    "Embroidered Collections",
+    "Custom Lehengas",
+    "Designer Sarees",
+    "Occasion Wear",
+    "Signature Pieces",
+    "Bridal Lehengas",
+    "Celebration Outfits",
+    "Festival Collections",
+    "Tailored Wear",
+    "Artisanal Designs"
+  ],
+  "caseStudies": [
+    {
+      "num": "01",
+      "title": "Bridal Transformation",
+      "client": "Client: Priya Mehta",
+      "project": "Custom Bridal Lehenga Collection",
+      "desc": "Priya envisioned a lehenga that honored her Gujarati heritage while reflecting modern sensibilities. Through detailed consultations, mood boards, and multiple fittings, we created a stunning hand-embroidered bridal collection featuring intricate mirror work and traditional motifs. The final piece celebrated her personal style while showcasing our finest craftsmanship."
+    },
+    {
+      "num": "02",
+      "title": "Fusion Fashion Success",
+      "client": "Client: Asha Patel",
+      "project": "Contemporary Fusion Wear",
+      "desc": "Asha sought modern fusion pieces that blended traditional elements with contemporary silhouettes for her professional wardrobe. We curated a collection of tailored fusion wear featuring contemporary cuts with subtle traditional embellishments, perfectly balancing her modern lifestyle with cultural pride."
+    },
+    {
+      "num": "03",
+      "title": "Wedding Party Styling",
+      "client": "Client: Neha Sharma",
+      "project": "Complete Wedding Party Ensemble",
+      "desc": "For a destination wedding, Neha required coordinated styling for her entire wedding party. We designed and created custom sarees and occasion wear for 6 family members, ensuring cohesive aesthetics while respecting individual preferences. Each piece was crafted with meticulous detail and delivered on schedule."
+    },
+    {
+      "num": "04",
+      "title": "Festival Collection Launch",
+      "client": "Client: Corporate Client",
+      "project": "Seasonal Festival Collection",
+      "desc": "A Rajkot-based lifestyle brand commissioned us to design a limited-edition festival collection featuring traditional embroidery with contemporary color palettes. We created 8 exclusive pieces that became their best-selling seasonal collection, enhancing their brand's cultural authenticity."
+    },
+    {
+      "num": "05",
+      "title": "Occasion Wear Curation",
+      "client": "Client: Divya Kapoor",
+      "project": "Personalized Occasion Wardrobe",
+      "desc": "Divya needed a versatile wardrobe for multiple occasions throughout the year. Through personal shopping sessions, we curated and customized 5 pieces—from evening wear to festival sarees—that mixed and matched perfectly while maintaining her sophisticated aesthetic."
+    },
+    {
+      "num": "06",
+      "title": "Heritage Saree Revival",
+      "client": "Client: Mrs. Joshi",
+      "project": "Family Heirloom Redesign",
+      "desc": "Mrs. Joshi brought vintage family saree fabrics to redesign into contemporary pieces she could wear today. We skillfully repurposed the textiles into a modern saree and matching fusion blouse, honoring family heritage while creating wearable contemporary fashion."
+    }
+  ],
+  "clients": [
+    "Priya Mehta Designs",
+    "Asha Patel Collections",
+    "Neha Sharma Couture",
+    "Corporate Lifestyle Brands",
+    "Divya Kapoor Styling",
+    "Joshi Family Collections",
+    "Local Rajkot Clientele",
+    "Destination Wedding Clients",
+    "Festival Fashion Enthusiasts",
+    "Contemporary Style Seekers",
+    "Cultural Heritage Advocates",
+    "Wedding Party Coordination",
+    "Personal Styling Clients",
+    "Bespoke Fashion Collectors"
+  ],
+  "contact": {
+    "sectionLabel": "Get In Touch",
+    "heading": "Let's Create Your Perfect Piece",
+    "subheading": "Book a consultation with our design team to discuss your vision, preferences, and bring your fashion dream to life.",
+    "phone": "+91 98989 89899",
+    "email": "rdjrdrsrts@himanistudio.com",
+    "address": "University Road, Rajkot, Gujarat",
+    "businessType": "Designer Fashion Boutique"
+  },
+  "footer": {
+    "brandName": "Himani dave studio",
+    "tagline": "Celebrating individuality through curated luxury fashion that honors traditional craftsmanship while embracing modern aesthetics. Bespoke design services in Rajkot since 2015.",
+    "presentedBy": "Himani Dave",
+    "presentedEmail": "rdjrdrsrts@himanistudio.com",
+    "presentedPhone": "+91 98989 89899",
+    "copyright": "© 2026 Himani dave studio. All rights reserved.",
+    "ctaText": "Get in Touch"
+  },
+  "products": {
+    "sectionLabel": "Our Collections",
+    "heading": "Exquisite Fashion for Every Occasion",
+    "flat": [
+      {
+        "title": "Bridal Lehengas",
+        "desc": "Custom-designed bridal lehengas with intricate hand embroidery and premium fabrics.",
+        "img": "https://source.unsplash.com/1600x900/?workspace%2Cclean%2Cbright&sig=3"
+      },
+      {
+        "title": "Designer Sarees",
+        "desc": "Elegantly crafted sarees blending traditional techniques with contemporary aesthetics."
+      },
+      {
+        "title": "Embroidered Blouses",
+        "desc": "Intricately embroidered blouses featuring hand-work and premium fabric selections.",
+        "img": "https://source.unsplash.com/1600x900/?professional%2Csuit%2Cconfident&sig=4"
+      },
+      {
+        "title": "Occasion Wear",
+        "desc": "Versatile pieces for weddings, festivals, and celebrations tailored to your preferences.",
+        "img": "https://source.unsplash.com/1600x900/?office%2Cinterior%2Cmodern&sig=5"
+      }
+    ],
+    "tubular": [
+      {
+        "title": "Fusion Kurtas",
+        "desc": "Contemporary fusion wear blending traditional elements with modern silhouettes.",
+        "img": "https://source.unsplash.com/1600x900/?brand%2Cidentity%2Cprofessional&sig=6"
+      },
+      {
+        "title": "Evening Gowns",
+        "desc": "Sophisticated evening and party wear featuring custom designs and premium embellishments.",
+        "img": "https://source.unsplash.com/1600x900/?growth%2Csuccess%2Cbusiness&sig=7"
+      },
+      {
+        "title": "Festival Wear",
+        "desc": "Celebration-ready outfits with vibrant colors and cultural motifs.",
+        "img": "https://source.unsplash.com/1600x900/?business%2Coffice%2Cprofessional&sig=0"
+      }
+    ],
+    "structural": [
+      {
+        "title": "Engagement Wear",
+        "desc": "Specially designed pieces for engagement ceremonies with elegant details.",
+        "img": "https://source.unsplash.com/1600x900/?team%2Cmeeting%2Ccorporate&sig=1"
+      },
+      {
+        "title": "Reception Sarees",
+        "desc": "Stunning reception sarees with intricate embroidery and luxurious fabrics.",
+        "img": "https://source.unsplash.com/1600x900/?city%2Cbuilding%2Cmodern&sig=2"
+      },
+      {
+        "title": "Mehendi Outfits",
+        "desc": "Vibrant and playful mehendi wear in colors that celebrate the occasion.",
+        "img": "https://source.unsplash.com/1600x900/?workspace%2Cclean%2Cbright&sig=3"
+      },
+      {
+        "title": "Haldi Wear",
+        "desc": "Traditional haldi ceremony outfits with cultural significance and artistic design.",
+        "img": "https://source.unsplash.com/1600x900/?professional%2Csuit%2Cconfident&sig=4"
+      },
+      {
+        "title": "Wedding Party Wear",
+        "desc": "Coordinated styling for wedding party members with individual personalization.",
+        "img": "https://source.unsplash.com/1600x900/?office%2Cinterior%2Cmodern&sig=5"
+      },
+      {
+        "title": "Custom Replicas",
+        "desc": "Recreate your favorite looks with our custom design and replication services.",
+        "img": "https://source.unsplash.com/1600x900/?brand%2Cidentity%2Cprofessional&sig=6"
+      }
+    ],
+    "roofing": [
+      {
+        "title": "Handcrafted Lehengas",
+        "desc": "Made-to-measure lehengas featuring intricate hand embroidery and premium silhouettes.",
+        "img": "https://source.unsplash.com/1600x900/?growth%2Csuccess%2Cbusiness&sig=7"
+      },
+      {
+        "title": "Mirror Work Pieces",
+        "desc": "Stunning pieces featuring traditional mirror work and beaded embellishments.",
+        "img": "https://source.unsplash.com/1600x900/?business%2Coffice%2Cprofessional&sig=0"
+      },
+      {
+        "title": "Zari Embroidered Wear",
+        "desc": "Elegant designs featuring traditional zari work and golden thread embellishments.",
+        "img": "https://source.unsplash.com/1600x900/?team%2Cmeeting%2Ccorporate&sig=1"
+      },
+      {
+        "title": "Contemporary Sarees",
+        "desc": "Modern sarees with minimalist designs and contemporary color palettes.",
+        "img": "https://source.unsplash.com/1600x900/?city%2Cbuilding%2Cmodern&sig=2"
+      }
+    ],
+    "accessories": [
+      {
+        "title": "Custom Blouses",
+        "desc": "Personalized blouses designed to complement your sarees and lehengas perfectly.",
+        "img": "https://source.unsplash.com/1600x900/?workspace%2Cclean%2Cbright&sig=3"
+      },
+      {
+        "title": "Matching Dupattas",
+        "desc": "Hand-embroidered dupattas coordinating with your custom designs.",
+        "img": "https://source.unsplash.com/1600x900/?professional%2Csuit%2Cconfident&sig=4"
+      },
+      {
+        "title": "Petticoats & Linings",
+        "desc": "Premium quality petticoats in custom lengths and fabrics.",
+        "img": "https://source.unsplash.com/1600x900/?office%2Cinterior%2Cmodern&sig=5"
+      },
+      {
+        "title": "Fabric Consultation",
+        "desc": "Expert guidance in selecting premium fabrics suited to your design vision.",
+        "img": "https://source.unsplash.com/1600x900/?brand%2Cidentity%2Cprofessional&sig=6"
+      },
+      {
+        "title": "Embroidery Customization",
+        "desc": "Personalized embroidery designs and hand-work options for your pieces.",
+        "img": "https://source.unsplash.com/1600x900/?growth%2Csuccess%2Cbusiness&sig=7"
+      },
+      {
+        "title": "Alterations & Tailoring",
+        "desc": "Professional alterations and fitting adjustments to ensure perfect fit.",
+        "img": "https://source.unsplash.com/1600x900/?business%2Coffice%2Cprofessional&sig=0"
+      }
+    ]
+  },
+  "cta": {
+    "label": "Get in Touch",
+    "buttonText": "Get in Touch"
+  }
+}
